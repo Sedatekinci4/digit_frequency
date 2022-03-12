@@ -17,7 +17,6 @@ int main()
 		p = strchr(str, k);
   		while (p != NULL)
   		{	
-			
   			nums[i]++;
   			n = p;
   			if (n[0] == s+'0') n++;
